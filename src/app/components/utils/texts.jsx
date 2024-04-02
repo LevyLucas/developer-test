@@ -6,5 +6,9 @@ export const textsButtons = {
     live: `<live>`,
     shop: ` shop `,
     all_items: ` all items `,
+    description: `<description>`,
+    buy: `<buy>`,
+    traits: `<traits>`,
+    createBy: `<createBy>`,
   }
   
