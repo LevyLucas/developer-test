@@ -1,4 +1,4 @@
-import MapColletions from "./collections/MapCollections";
+import MapCollections from "./modules/MapCollections";
 
 const HomeBottom = () => {
   return (
@@ -6,7 +6,7 @@ const HomeBottom = () => {
       <div className="mt-8">
         <span className="font-mono text-white text-3xl">{"<collections>"}</span>
         <div>
-          <MapColletions />
+          <MapCollections />
         </div>
       </div>
     </div>
